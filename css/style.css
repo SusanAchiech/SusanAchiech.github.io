@@ -29,6 +29,10 @@ body {
     bottom: 0;
     opacity: 0;
     visibility: hidden; }
+
+  /* #CV{
+      target: _blank;
+  } */
   body.offcanvas-menu {
     height: 100%;
     width: 100%;
